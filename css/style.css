@@ -1,6 +1,6 @@
 :root {
-  --primary: #b6895b;
-  --bg: #010101;
+  --primary: #2080ce;
+  --bg: #000000;
 }
 
 * {
@@ -174,7 +174,7 @@ body {
   min-height: 100vh;
   display: flex;
   align-items: center;
-  background-image: url("../img/header-bg.jpeg");
+  background-image: url("../img/A.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
